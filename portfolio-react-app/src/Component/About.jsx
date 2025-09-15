@@ -14,21 +14,36 @@ const About = () => {
         I have gained strong hands-on experience in multiple programming languages,
         development frameworks, and modern software technologies.
       </p>
+      <p>
+        Enthusiastic about building scalable and efficient applications.
+        Continuously striving to improve skills and stay updated with the latest technology trends.
+      </p>
       <p>My technical expertise spans across:</p>
       <ul>
+        <br />
+        <br />
+        <hr />
+        <br />
         <li><strong>Programming Languages:</strong>
           <ul>
             <li>C++</li>
             <li>Core Java</li>
             <li>C#</li>
+            <li>JavaScript</li>
           </ul>
         </li>
-        <li><strong>Web Development:</strong>
+        <br />
+        <hr />
+        <br />
+        <li><strong>Web Development:</strong> 
           <ul>
-            <li>MERN Stack (MongoDB, Express.js, React, Node.js)</li>
+            <li>MERN Stack (MongoDB/MySQL, Express.js, React, Node.js)</li>
             <li>.NET Framework</li>
           </ul>
         </li>
+        <br />
+        <hr />
+        <br />
         <li><strong>Advanced Java:</strong>
           <ul>
             <li>JDBC</li>
@@ -38,21 +53,31 @@ const About = () => {
             <li>Spring Boot</li>
           </ul>
         </li>
-        <li><strong>DevOps & Cloud:</strong>
-          <ul>
-            <li>Jenkins</li>
-            <li>Docker</li>
-            <li>Kubernetes</li>
-            <li>AWS EC2 Instances</li>
-          </ul>
-        </li>
+        <br />
+        <hr />
+        <br />
+        {/* <li><strong>DevOps & Cloud:</strong> */}
+          {/* <ul> */}
+            {/* <li>Jenkins</li> */}
+            {/* <li>Docker</li> */}
+            {/* <li>Kubernetes</li> */}
+            {/* <li>AWS EC2 Instances</li> */}
+          {/* </ul> */}
+        {/* </li> */}
+        {/* <br /> */}
+        {/* <hr /> */}
+        {/* <br /> */}
         <li><strong>Database Technologies:</strong>
           <ul>
             <li>MySQL</li>
             <li>SQL</li>
             <li>PL/SQL</li>
+            <li>Mongo DB</li>
           </ul>
         </li>
+        <br />
+        <hr />
+        <br />
         <li><strong>Software Development Methodologies:</strong>
           <ul>
             <li>Agile practices</li>
@@ -60,10 +85,10 @@ const About = () => {
           </ul>
         </li>
       </ul>
-      <p>
-        Enthusiastic about building scalable and efficient applications.
-        Continuously striving to improve skills and stay updated with the latest technology trends.
-      </p>
+      <br />
+        <hr />
+  
+     
     </section>
   );
 };

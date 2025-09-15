@@ -5,9 +5,9 @@ const Project = () => {
     <section id="projects" className="section">
       <h2>Projects</h2>
       <ul>
-        <li><a href='https://github.com/Chetan-Duratkar2234/Demo_Portfolio/tree/main/portfolio-react-app' target='_blank'>Portfolio Website</a></li>
-        <li>Air bnb</li>
-        <li><a href='https://github.com/Yash-Agrawal-644/Hackathon' target='_blank'>Bloging Application</a></li>
+        <li><a href='https://github.com/Chetan-Duratkar2234/Home_Linker' target='_blank'>Home-Linker</a></li>
+        <li><a href='https://github.com/Chetan-Duratkar2234/AirBNB_Clone' target='_blank'>AirBnb</a></li>
+        <li><a href='https://github.com/Chetan-Duratkar2234/Blogging_Application' target='_blank'>Bloging Application</a></li>
       </ul>
     </section>
   );
